@@ -1,0 +1,17 @@
+C:\Users\Marwan\source\repos\crawlerTaskIR\crawlerTaskIR\bin\Debug\simpleDatabase.mdf
+C:\Users\Marwan\source\repos\crawlerTaskIR\crawlerTaskIR\bin\Debug\simpleDatabase_log.ldf
+C:\Users\Marwan\source\repos\crawlerTaskIR\crawlerTaskIR\bin\Debug\crawlerTaskIR.exe.config
+C:\Users\Marwan\source\repos\crawlerTaskIR\crawlerTaskIR\bin\Debug\crawlerTaskIR.exe
+C:\Users\Marwan\source\repos\crawlerTaskIR\crawlerTaskIR\bin\Debug\crawlerTaskIR.pdb
+C:\Users\Marwan\source\repos\crawlerTaskIR\crawlerTaskIR\obj\Debug\crawlerTaskIR.csproj.AssemblyReference.cache
+C:\Users\Marwan\source\repos\crawlerTaskIR\crawlerTaskIR\obj\Debug\crawlerTaskIR.Form1.resources
+C:\Users\Marwan\source\repos\crawlerTaskIR\crawlerTaskIR\obj\Debug\crawlerTaskIR.Properties.Resources.resources
+C:\Users\Marwan\source\repos\crawlerTaskIR\crawlerTaskIR\obj\Debug\crawlerTaskIR.csproj.GenerateResource.cache
+C:\Users\Marwan\source\repos\crawlerTaskIR\crawlerTaskIR\obj\Debug\crawlerTaskIR.csproj.CoreCompileInputs.cache
+C:\Users\Marwan\source\repos\crawlerTaskIR\crawlerTaskIR\obj\Debug\crawlerTaskIR.exe
+C:\Users\Marwan\source\repos\crawlerTaskIR\crawlerTaskIR\obj\Debug\crawlerTaskIR.pdb
+C:\Users\Marwan\source\repos\crawlerTaskIR\crawlerTaskIR\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Marwan\source\repos\crawlerTaskIR\crawlerTaskIR\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Marwan\source\repos\crawlerTaskIR\crawlerTaskIR\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Marwan\source\repos\crawlerTaskIR\crawlerTaskIR\obj\Debug\crawlerTaskIR.csproj.CopyComplete
+C:\Users\Marwan\source\repos\crawlerTaskIR\crawlerTaskIR\bin\Debug\Microsoft.mshtml.dll
